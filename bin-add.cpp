@@ -1,11 +1,7 @@
 #include<stdio.h>
 main()
 /* code by Tejas KL
-		https://github.com/tejaskl/
-		
-   and Vijay Krishnan
-   		https://github.com/vvijayk1999/
-		   
+		https://github.com/tejaskl/		   
  */
 {
 	int a[5]={0},b[5]={0},c[5]={0},i,k=0;
